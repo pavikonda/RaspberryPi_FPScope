@@ -14,7 +14,7 @@ This folder contains .scad and .stl formats of all the parts required to 3D prin
 
 Fourier ptychographic reconstruction code and test data to use with the reconstruction code can be found at: http://dx.doi.org/10.5525/gla.researchdata.594
 
-Download a Raspberry pi SD card image which includes the necessary libraries from:
+Download a Raspbian OS SD card image which includes the necessary libraries from:
 https://drive.google.com/open?id=1Z59lnhNKuGGGVIF1KtoCw2bAcdZESKBo
 
 
