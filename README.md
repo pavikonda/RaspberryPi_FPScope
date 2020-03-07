@@ -6,6 +6,8 @@ Aidukas, T., Eckert, R., Harvey, A.R. et al. Low-cost, sub-micron resolution, wi
 
 This repository contains an instruction set to build the microscope, CAD files, data acqusition and data processing codes.
 
+<img src="images/RPi_FP_setup.png" width="400" >
+
 DATA_CAPTURE.py:
 This file contains a Python script required to obtain images for Fourier ptychography using a Raspberry Pi computer, Raspberry Pi camera and Unicorn HD LED array. These images are obtained by flashing LEDs in a spiral pattern from the center towards the edges.
 
